@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: "Jorge's Portfolio"
+description: "Showcasing my projects and skills in data science and public policy."
+author: "Jorge"
+theme: "minimal"
